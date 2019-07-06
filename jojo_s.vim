@@ -48,7 +48,7 @@ hi Visual		  guifg=#f6f3e8 guibg=#444444 gui=none
 hi SpecialKey	  guifg=#9895f0 guibg=#343434 gui=none
 
 " Syntax highlighting
-hi Comment 		    guifg=#666666 gui=none
+hi Comment 		    guifg=#666666 cterm=none gui=none
 hi Constant 	    guifg=#a3c1ad gui=none
 hi CssBoxProp 		guifg=#adadad guibg=#242424
 hi CssFontProp 		guifg=#adadad guibg=#242424

@@ -48,7 +48,7 @@ hi Visual		  guifg=#f6f3e8 guibg=#444444 gui=none
 hi SpecialKey	  guifg=#9895f0 guibg=#343434 gui=none
 
 " Syntax highlighting
-hi Comment 		    guifg=#666666 gui=italic
+hi Comment 		    guifg=#666666 gui=none
 hi Constant 	    guifg=#a3c1ad gui=none
 hi CssBoxProp 		guifg=#adadad guibg=#242424
 hi CssFontProp 		guifg=#adadad guibg=#242424
@@ -100,7 +100,7 @@ hi htmlArg 	            guifg=#b49a68 gui=none
 hi htmlH1 	            guifg=#b7b8ff gui=bold
 hi htmlH2 	            guifg=#b7b8ff gui=bold
 hi htmlSpecialChar      guifg=#9c7248 gui=none
-hi htmlCommentPart      guifg=#999999 gui=italic
+hi htmlCommentPart      guifg=#999999 gui=none
 hi htmlComment          guifg=#999999 gui=none
 hi htmlTag 	            guifg=#848484 gui=none
 hi htmlTagN 	        guifg=#848484 gui=none

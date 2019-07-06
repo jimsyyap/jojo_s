@@ -100,7 +100,7 @@ hi htmlArg 	            guifg=#b49a68 gui=none
 hi htmlH1 	            guifg=#b7b8ff gui=bold
 hi htmlH2 	            guifg=#b7b8ff gui=bold
 hi htmlSpecialChar      guifg=#9c7248 gui=none
-hi htmlCommentPart      guifg=#999999 gui=none
+hi htmlCommentPart      guifg=#999999 gui=italic
 hi htmlComment          guifg=#999999 gui=none
 hi htmlTag 	            guifg=#848484 gui=none
 hi htmlTagN 	        guifg=#848484 gui=none

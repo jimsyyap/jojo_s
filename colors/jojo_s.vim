@@ -142,7 +142,7 @@ hi phpIdentifier        guifg=#adadad gui=none
 hi phpClasses	        guifg=#ff6666 gui=none
 hi phpSpecialFunction	guifg=#a381ee gui=none
 hi phpBackslashSequences guifg=#ff6666 gui=none
-hi phpOperator          guifg=#ff3333 gui=bold
+hi phpOperator          guifg=#ff3333 gui=none
 hi phpType   	        guifg=#5aa7ff gui=none
 hi phpComment 	        guifg=#999999 gui=none
 hi phpDefine    	    guifg=#6897bb gui=none

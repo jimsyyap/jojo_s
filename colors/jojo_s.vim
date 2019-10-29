@@ -142,7 +142,7 @@ hi phpIdentifier        guifg=#adadad gui=none
 hi phpClasses	        guifg=#ff6666 gui=none
 hi phpSpecialFunction	guifg=#a381ee gui=none
 hi phpBackslashSequences guifg=#ff6666 gui=none
-hi phpOperator          guifg=#ff3333 gui=none
+hi phpOperator          guifg=#94852d gui=none
 hi phpType   	        guifg=#5aa7ff gui=none
 hi phpComment 	        guifg=#999999 gui=none
 hi phpDefine    	    guifg=#6897bb gui=none
@@ -154,7 +154,7 @@ hi phpMethodsVar        guifg=#6897bb gui=none
 hi phpDocTags	        guifg=#8ab3cd gui=none
 hi phpStringSingle 		guifg=#86c286 gui=none
 "hi phpStringDouble 	guifg=#4eac46 gui=none
-hi phpVarSelector       guifg=#94852d gui=none
+hi phpVarSelector       guifg=#946b2d gui=none
 
 hi markdownH1	guifg=#ff6666 gui=none
 hi markdownH2	guifg=#ff6666 gui=none

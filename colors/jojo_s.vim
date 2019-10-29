@@ -154,7 +154,7 @@ hi phpMethodsVar        guifg=#6897bb gui=none
 hi phpDocTags	        guifg=#8ab3cd gui=none
 hi phpStringSingle 		guifg=#86c286 gui=none
 "hi phpStringDouble 	guifg=#4eac46 gui=none
-hi phpVarSelector       guifg=#946b2d gui=none
+hi phpVarSelector       guifg=#94852d gui=none
 
 hi markdownH1	guifg=#ff6666 gui=none
 hi markdownH2	guifg=#ff6666 gui=none

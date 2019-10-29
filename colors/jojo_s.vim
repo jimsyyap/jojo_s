@@ -142,9 +142,9 @@ hi phpIdentifier        guifg=#adadad gui=none
 hi phpClasses	        guifg=#ff6666 gui=none
 hi phpSpecialFunction	guifg=#a381ee gui=none
 hi phpBackslashSequences guifg=#ff6666 gui=none
-"hi phpOperator          guifg=#94852d gui=bold
-hi phpType   	        guifg=#5aa7ff gui=none
-hi phpComment 	        guifg=#6897bb gui=none
+hi phpOperator          guifg=#94512d gui=bold
+hi phpType   	        guifg=#94852d gui=none
+hi phpComment 	        guifg=#566d7c gui=italic
 hi phpDefine    	    guifg=#6897bb gui=none
 hi phpParent 	        guifg=#adadad gui=none
 hi phpStructure 	    guifg=#688296 gui=none
